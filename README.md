@@ -7,3 +7,4 @@ Tech Stack:
 Java 11
 
 MySQL
+JDBC
