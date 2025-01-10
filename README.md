@@ -17,7 +17,6 @@ rs2xml.jar
 4. Installation:
 i. Clone the git repo
 
-https://github.com/AAdewunmi/Airline-Management-System.git
 ii. Open project folder
 
 iii. Explore
